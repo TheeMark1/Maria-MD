@@ -3,20 +3,20 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernumber = ['+254 790 283522']
-global.ownername = "TheeMark💙"//owner name
+global.ownername = "TheeMark✰"//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = 'TheeMark✰' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
-global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.stickername = 'TheeMark✰'
+global.packname = 'By'
+global.author = 'TheeMark'
 //console view/theme
-global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.themeemoji = '🦹🏾‍♂'
+global.wm = "https://www.bing.com/images/create/cool-baby-groot/1-66134bbe22f340f98299aa3889e02f8c?id=thbLgxpd1FqxWSjSt79oGA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.zMzeVTnFwZ5iAUmS62N8&FORM=SYDBIC"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
@@ -32,7 +32,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti212 = true //auto block +212
-global.autoread_status = false //auto view status/story
+global.autoread_status = true //auto view status/story
 
 
 
